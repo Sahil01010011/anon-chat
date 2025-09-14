@@ -305,7 +305,7 @@ A: Verify both users are online and have valid sessions.
 
 ## 👨‍💻 Developer
 
-**Created by:** shadowxp  
+**Created by:** Sahil Mallick aka shadowxp  
 **Purpose:** To foster a supportive, anonymous community for CSE students  
 **Contact:** Through the platform's Common Room
 
